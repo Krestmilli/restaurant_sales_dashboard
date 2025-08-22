@@ -31,12 +31,20 @@ Think of this dashboard as the *kitchen pass* — where the whole restaurant’s
 ---
 
 ## 🔑 Key Insights  
-- *The Burger Effect:* Burgers fuel almost half of total revenue — the undisputed bestseller.  
-- *Drinks & Fries:* They outsell burgers in quantity but don’t match in revenue.  
-- *City Divide:* Lisbon & London thrive; Paris consistently underperforms.  
-- *Manager Performance:* Joao Silva is far ahead of peers, setting a benchmark.  
-- *Customer Behavior:* In-store dining and card payments dominate; digital channels lag.  
-- *Time Trends:* Midweek days drive the highest order values.  
+
+*1. The Burger Effect 🍔*  
+Burgers are the biggest money-maker, contributing almost half of total revenue ($377K). They are the star of the menu and the main reason customers visit the restaurant.  
+*2. Drinks & Fries 🥤🍟*  
+Drinks (34,983 units) and fries are ordered more than burgers, but they bring in less money because of their lower price. They are very popular and can be bundled with burgers to increase both sales volume and revenue.  
+*3. City Divide 🌍*  
+Lisbon ($241K) and London ($211K) lead in sales, showing strong customer demand. Paris is the weakest performer with only $79K, which means there’s room for better marketing, offers, or menu adjustments in that market.  
+*4. Manager Performance 👨‍💼*  
+Joao Silva stands out with $241K in sales — far ahead of other managers. His results show that his approach works, and his methods can be shared across other branches to boost performance.  
+*5. Customer Behavior 🛒*  
+- *Where they buy:* Most customers dine *in-store (40%)*, while online and drive-thru orders are still underused.  
+- *How they pay:* Credit cards (47%) are the top payment method, while cash and gift cards are less popular but could grow with the right offers.  
+*6. Time Trends ⏰*  
+Sales peak in the middle of the week, especially on *Wednesdays and Thursdays*. Weekends are quieter, showing an opportunity to introduce weekend promotions or offers.
 
 ---
 
