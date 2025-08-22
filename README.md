@@ -49,4 +49,30 @@ Think of this dashboard as the *kitchen pass* — where the whole restaurant’s
 
 ---
 
-## 📂 Repo Structure
+## 📖 How to Use This Dashboard  
+
+1. *Download the Excel file* from this repository.  
+2. Open it in *Microsoft Excel (2016 or later recommended)*.  
+3. Use the *slicers/filters* to explore the data by:  
+   - City (Lisbon, London, Madrid, Berlin, Paris)  
+   - Manager  
+   - Product Category (Burgers, Fries, Beverages, etc.)  
+   - Purchase Method (In-store, Online, Drive-thru)  
+   - Payment Method (Credit card, Cash, Gift card)  
+4. Navigate through the visuals to view:  
+   - Overall KPIs (Total Sales, Quantity, Orders, Avg. Order Value)  
+   - Sales trends over time  
+   - City and manager comparisons  
+   - Product performance (by revenue and by quantity)  
+   - Customer purchase behavior
+  
+   ---
+   
+
+## ✍ Author  
+*Ifeanyi Eric*  
+- 📊 Data Analyst | Skilled in Excel, SQL, Power BI, and Tableau  
+- 🌍 Nigeria 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ifeanyieric)  
+- ✉ ifeanyiokoronkwo52@gmail.com  
+
