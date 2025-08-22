@@ -3,9 +3,7 @@
 ![Dashboard Screenshot](dashboard.png)  
 
 ## 📌 Project Overview  
-Every restaurant tells a story — through its menu, its customers, and its sales. This project explores the hidden patterns behind restaurant performance: which meals bring in the money, which cities love to dine, and which managers truly deliver results.  
-
-The goal of this dashboard is to transform raw sales data into an engaging story — showing where the restaurant chain is winning, where it’s falling behind, and how it can savor even more success in the future.  
+This project digs into restaurant sales data to reveal key insights: top-selling meals, city performance, and manager effectiveness. By analyzing sales trends, we can identify what's working, what's not, and where opportunities lie. The goal is to turn data into actionable stories, highlighting wins, identifying gaps, and driving future success. This dashboard is designed to help restaurants savor more success by making informed decisions  
 
 ---
 
@@ -43,11 +41,11 @@ Think of this dashboard as the *kitchen pass* — where the whole restaurant’s
 ---
 
 ## 🚀 Recommendations  
-- *Bundle to Boost Sales:* Pair burgers with beverages & fries to increase basket size.  
-- *Revive Paris Sales:* Launch city-specific marketing and menu campaigns.  
-- *Share Best Practices:* Replicate Joao Silva’s approach across managers.  
+- *Bundle to Boost Sales:* Pair burgers with beverages & fries to increase average order value.  
+- *Revive Paris Sales:* Launch targeted marketing and menu campaigns to boost performance.  
+- *Share Best Practices:* Replicate Joao Silva's successful approach across all managers.  
 - *Push Digital Channels:* Incentivize online & drive-thru orders with promotions.  
-- *Diversify Payments:* Encourage cash & gift card use with discounts or loyalty perks.  
+- *Diversify Payments:* Encourage cash and gift card use with discounts or loyalty rewards.  
 
 ---
 
